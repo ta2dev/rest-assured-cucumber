@@ -1,0 +1,6 @@
+{
+	"positive": {
+		"accept": "application/json",
+		"content-type": "application/json"
+	}
+}
