@@ -6,9 +6,11 @@ If you want to execute the project, please download the project and use below ma
 **mvn clean test**
 <p>Cucumber Report will be generated in "target" folder
  
+ 
+ If you want to run the project in <strong>docker container<strong>, download/clone the project and type below command
+ **docker-compose up**
+  
  Took sample get and post api's from https://reqres.in/
-  
-  
   
  For any queries please drop mail to <a href="mailto:automationtest.dev@gmail.com">automationtest.dev@gmail.com</a>
  
