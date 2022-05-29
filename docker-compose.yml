@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  cucumber-rest-assured:
+    image: ta2dev/maven:alpine
+    working_dir: /test
+    volumes:
+     - .:/test
+    command: clean test
